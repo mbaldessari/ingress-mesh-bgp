@@ -53,7 +53,7 @@ clusterGroup:
       name: east
       namespace: east
       argoProject: east
-      path: charts/east-site/rhsi-east
+      path: charts/east-site/rhsi
   imperative:
     jobs: []
   sharedValueFiles:
